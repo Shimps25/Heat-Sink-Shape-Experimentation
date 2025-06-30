@@ -95,6 +95,3 @@ Thick base-to-thin-top fin design, optimized for balancing print time with surfa
 - 🔁 Parametric variation for automated optimization
 
 ---
-
-## 📂 Folder Structure Suggestion
-
