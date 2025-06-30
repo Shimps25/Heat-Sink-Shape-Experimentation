@@ -31,7 +31,7 @@ To explore, design, and compare **multiple heat sink geometries** for the same b
 ### 1. 🔳 Concentric Pyramid Fin
 A layered concentric square pattern rising toward the center — ideal for uniform heat spread and unique visual appeal.
 
-![Concentric](![image](https://github.com/user-attachments/assets/b6a1772c-37e7-428f-ba87-550df8d8470d))
+!(![image](https://github.com/user-attachments/assets/b6a1772c-37e7-428f-ba87-550df8d8470d))
 
 ---
 
