@@ -38,28 +38,32 @@ A layered concentric square pattern rising toward the center — ideal for unifo
 ### 2. 🟫 Linear Rectangular Fins
 Traditional vertical fins with maximum parallel surface area — reliable for basic heat dissipation.
 
-![Linear Fins](./assets/20.png)
+![image](https://github.com/user-attachments/assets/a666fd2b-db9d-4b68-85c3-101f4870226e)
+
 
 ---
 
 ### 3. 🪟 Slanted Fins with Angled Sidewalls
 Angled fin structure for improved airflow dynamics, designed to guide heat-laden air outwards.
 
-![Slanted Fins](./assets/21.png)
+![image](https://github.com/user-attachments/assets/8be03090-5292-4002-af10-66d75ed2913f)
+
 
 ---
 
 ### 4. 🧱 Grid Fin Array
 Grid-like vertical fins with open channels for enhanced vertical ventilation and easier printability.
 
-![Grid](./assets/22.png)
+![image](https://github.com/user-attachments/assets/66b2cec6-360d-4b45-b66d-7b52cf14c0e9)
+
 
 ---
 
 ### 5. ⚙️ Tapered Vertical Fins
 Thick base-to-thin-top fin design, optimized for balancing print time with surface area increase.
 
-![Tapered](./assets/23.png)
+![image](https://github.com/user-attachments/assets/650c6df8-7f3c-4b93-b72f-9b4ca1a45237)
+
 
 ---
 
